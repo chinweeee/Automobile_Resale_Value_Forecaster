@@ -13,6 +13,7 @@ Note that this is a clean data. Therefore, no data cleaning was done.
 
 - Neural network implementation using TensorFlow for regression analysis.
 - Comprehensive data preprocessing and exploration.
+- Keras was used for Input Normalization
 - Model training, evaluation, and prediction on automobile resale values.
 - Visualization of data and prediction results for better understanding.
 
